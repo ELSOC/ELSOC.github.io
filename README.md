@@ -1,2 +1,2 @@
-# Binary.github.io
-Website for Binary Club BMSCE
+# ELSOC-BMSCE
+Website for ELSOC BMSCE
