@@ -1,4 +1,4 @@
 # ELSOC-BMSCE
-Website for ELSOC BMSCE
-ELSOC is a student community under the ECE department in BMS College of Engineering.
-Welcome to the ELSOC Organizations page
+Website for ELSOC BMSCE\
+ELSOC is a student community under the ECE department in BMS College of Engineering.\
+Welcome to the ELSOC Organizations page.
