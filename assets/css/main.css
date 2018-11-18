@@ -3581,14 +3581,7 @@ input, select, textarea {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
-/*
-        background-image:-moz-linear-gradient(to bottom, black, transparent 10%, black ,transparent),url(../../images/banner.jpg);
-        background-image:-webkit-linear-gradient(to bottom, black ,transparent 10%, black ,transparent),url(../../images/banner.jpg);
-*/
-/*
-        background-image:linear-gradient(to bottom,black,  transparent 10%, black ,transparent),url(../../images/banner.jpg);
-        background-image:linear-gradient(to bottom,black, transparent 10%, black ,transparent),url(../../images/banner.jpg);
-*/
+    
 		display: flex;
 		-moz-flex-direction: column;
 		-webkit-flex-direction: column;
