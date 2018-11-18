@@ -29,7 +29,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -44,8 +43,8 @@ footer, header, hgroup, menu, nav, section {
 }
 
 .column img {
-  margin-top: 8px;
-    margin-left: 8px;
+  margin-top: 4px;
+    margin-left: 4px;
   vertical-align: middle;
 }
 
